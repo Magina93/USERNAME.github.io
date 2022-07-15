@@ -1,0 +1,17 @@
+
+nav {
+	border-bottom: 2px solid blue;
+}
+div{
+    max-width: 200px;
+}
+h1{
+   text-align: center;
+
+}
+ol {
+  display:flex;  
+  list-style: none;
+  justify-content: space-between;
+  text-align: center;
+}
